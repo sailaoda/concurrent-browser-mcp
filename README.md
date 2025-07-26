@@ -2,6 +2,10 @@
 
 A multi-concurrent browser MCP (Model Context Protocol) server built with Playwright.
 
+<a href="https://glama.ai/mcp/servers/@sailaoda/concurrent-browser-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@sailaoda/concurrent-browser-mcp/badge" alt="Concurrent Browser MCP server" />
+</a>
+
 [中文](README.zh.md) | **English**
 
 ## Features
@@ -568,4 +572,4 @@ node dist/index.js --max-instances 5 --browser chromium --headless false
 2. Create feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit changes (`git commit -m 'Add some amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request 
+5. Open Pull Request
